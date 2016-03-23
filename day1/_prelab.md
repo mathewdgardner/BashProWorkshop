@@ -125,7 +125,7 @@ Try it.
 
 # Control Statements 1<a id="control"></a>
 
-###### if <a id="if"></a>
+###### if, elif, else <a id="if"></a>
 
 Sometimes you want to execute commands conditionally. The syntax here is a bit tedious I admit, so pay close attention to the whitespace.
 
