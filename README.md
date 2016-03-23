@@ -1,6 +1,8 @@
 # BashProWorkshop
 Learn Bash hands on!
 
+![it's a unix system, i know this](unix_system.jpeg)
+
   - [Day 1](day1/_prelab.md)
     - [Shebang](day1/_prelab.md#shebang)
     - [Common Commands](day1/_prelab.md#common)
