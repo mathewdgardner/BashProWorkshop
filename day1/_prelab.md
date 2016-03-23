@@ -1,4 +1,4 @@
-## Shebang
+## Shebang <a id="shebang"></a>
 
 Typically the first line in a shell script is a line leading with `#!`. This tells the program loader to run the upcoming commands in the given interpreter. Common ones you might find in the wild:
 
@@ -49,7 +49,7 @@ for container in $containers; do
 done
 ```
 
-# Common Commands
+# Common Commands <a id="common"></a>
 
 There are many commands available. I come across new ones all the time as it's always an ongoing learning experience. Here are some invaluable commands many of which you are probably already familiar with (in no particular order):
 
@@ -89,7 +89,7 @@ There are many commands available. I come across new ones all the time as it's a
 
 Each of these you can check the man pages to read more about them and their use. For example, `man rm`. Press `q` to exit the man pages.
 
-## Variables 1
+## Variables 1 <a id="variables"></a>
 
 In bash you can set string, numbers or arrays into a variable. The basic syntax is:
 
@@ -124,9 +124,9 @@ This is due to variable expansion. At the time of the command being evaluated `f
 
 Try it.
 
-## Control Statements
+## Control Statements <a id="control"></a>
 
-# if
+# if <a id="if"></a>
 
 Sometimes you want to execute commands conditionally. The syntax here is a bit tedious I admit, so pay close attention to the whitespace.
 
@@ -144,7 +144,7 @@ fi
 
 Protip: Be extra careful with your variable expansion. Notice I placed `$foo` inside double quotes. Variables inside double quotes are interpolated, that means that they can still be evaluated. Placing them in double quotes allows whitespace to be allowed and not automatically truncated by the shell.
 
-# switch, err, I mean case
+# switch, err, I mean case <a id="case"></a>
 
 ```sh
 foo=bar
