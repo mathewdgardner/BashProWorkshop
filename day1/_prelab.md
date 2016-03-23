@@ -1,4 +1,4 @@
-## Shebang <a id="shebang"></a>
+# Shebang <a id="shebang"></a>
 
 Typically the first line in a shell script is a line leading with `#!`. This tells the program loader to run the upcoming commands in the given interpreter. Common ones you might find in the wild:
 
@@ -10,9 +10,7 @@ Typically the first line in a shell script is a line leading with `#!`. This tel
   - `#!/usr/local/sbin/php`
   - `#!/usr/bin/env node`
 
-```
-Note: I made these paths up to showcase the different locations you might find them. Actual location depends on your distribution.
-```
+> Note: I made these paths up to showcase the different locations you might find them. Actual location depends on your distribution.
 
 Afterwards you can author any arbitrary set of commands you need. For example:
 
@@ -90,7 +88,7 @@ There are many commands available. I come across new ones all the time as it's a
 
 Each of these you can check the man pages to read more about them and their use. For example, `man rm`. Press `q` to exit the man pages.
 
-## Variables 1 <a id="variables"></a>
+# Variables 1 <a id="variables"></a>
 
 In bash you can set string, numbers or arrays into a variable. The basic syntax is:
 
@@ -125,9 +123,9 @@ This is due to variable expansion. At the time of the command being evaluated `f
 
 Try it.
 
-## Control Statements <a id="control"></a>
+# Control Statements 1<a id="control"></a>
 
-# if <a id="if"></a>
+###### if <a id="if"></a>
 
 Sometimes you want to execute commands conditionally. The syntax here is a bit tedious I admit, so pay close attention to the whitespace.
 
@@ -143,7 +141,7 @@ else
 fi
 ```
 
-Protip: Be extra careful with your variable expansion. Notice I placed `$foo` inside double quotes. Variables inside double quotes are interpolated, that means that they can still be evaluated. Placing them in double quotes allows whitespace to be allowed and not automatically truncated by the shell.
+> Protip: Be extra careful with your variable expansion. Notice I placed `$foo` inside double quotes. Variables inside double quotes are interpolated, that means that they can still be evaluated. Placing them in double quotes allows whitespace to be allowed and not automatically truncated by the shell.
 
 # switch, err, I mean case <a id="case"></a>
 
@@ -159,6 +157,6 @@ esac
 
 The if and case blocks above are equivalent.
 
-Note: Blocks often end in the reverse of the keyword that started it. The `if` block ends with the `fi` keyword. The `case` block ends with the `esac` keyword.
+> Note: Blocks often end in the reverse of the keyword that started it. The `if` block ends with the `fi` keyword. The `case` block ends with the `esac` keyword.
 
 Next time we'll go over loops!
