@@ -8,6 +8,7 @@ Typically the first line in a shell script is a line leading with `#!`. This tel
   - `#!/usr/sbin/python`
   - `#!/usr/local/bin/ruby`
   - `#!/usr/local/sbin/php`
+  - `#!/usr/bin/env node`
 
 ```
 Note: I made these paths up to showcase the different locations you might find them. Actual location depends on your distribution.
