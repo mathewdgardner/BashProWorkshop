@@ -12,3 +12,9 @@ Learn Bash hands on!
       - [2](day1/lab.md#2)
       - [3](day1/lab.md#3)
       - [BONUS](day1/lab.md#bonus)
+
+# Resources
+  - https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+  - https://www.gnu.org/software/bash/
+  - http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+  - http://www.learnshell.org/
