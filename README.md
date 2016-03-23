@@ -18,3 +18,4 @@ Learn Bash hands on!
   - https://www.gnu.org/software/bash/
   - http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
   - http://www.learnshell.org/
+  - http://guide.bash.academy/
