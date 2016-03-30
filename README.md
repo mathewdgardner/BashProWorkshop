@@ -15,6 +15,16 @@ Learn Bash hands on!
       - [Exercise 3](day1/lab.md#3)
       - [BONUS](day1/lab.md#bonus)
 
+  - [Day 2]()
+    - [Arguments](day2/README.md#arguments)
+    - [Aliases](day2/README.md#aliases)
+    - [Functions](day2/README.md#functions)
+    - [Exercises](day2/lab.md)
+     - [Exercise 1](day2/lab.md#1)
+     - [Exercise 2](day2/lab.md#2)
+     - [Exercise 3](day2/lab.md#3)
+     - [BONUS](day2/lab.md#bonus)
+
 # Resources
   - https://en.wikipedia.org/wiki/Bash_(Unix_shell)
   - https://www.gnu.org/software/bash/
