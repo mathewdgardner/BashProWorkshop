@@ -12,6 +12,10 @@ Repeat Exercise 1 but have each argument print on the same line with separate st
 
 Author a script that defines a function that prints out the arguments it is given.
 
+###### Exercise 4 <a id="4"></a>
+
+Write an alias that combines `cd` and `ls` into one step.
+
 ###### BONUS <a id="bonus"></a>
 
 Repeat Exercise 3 but have the function print out arguments passed to the script instead.
