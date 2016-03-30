@@ -25,6 +25,7 @@ Learn Bash hands on!
      - [Exercise 1](day2/lab.md#1)
      - [Exercise 2](day2/lab.md#2)
      - [Exercise 3](day2/lab.md#3)
+     - [Exercise 4](day2/lab.md#4)
      - [BONUS](day2/lab.md#bonus)
 
 # Resources

@@ -38,6 +38,8 @@ function echoAllTheThings() {
 echoAllTheThings one two three
 ```
 
+# [Now try the exercises!](lab.md)
+
 # Resources <a id="resources"></a>
 
   - [Arguments](http://www.gnu.org/software/bash/manual/bash.html#Shell-Parameters)

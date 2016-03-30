@@ -159,6 +159,8 @@ The if and case blocks above are equivalent.
 
 > Note: Blocks often end in the reverse of the keyword that started it. The `if` block ends with the `fi` keyword. The `case` block ends with the `esac` keyword.
 
+# [Now try the exercises!](lab.md)
+
 # Resources <a id="resources"></a>
 
   - [Shebang](http://www.gnu.org/software/bash/manual/bash.html#Shell-Scripts)
