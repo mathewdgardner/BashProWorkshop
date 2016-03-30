@@ -159,4 +159,9 @@ The if and case blocks above are equivalent.
 
 > Note: Blocks often end in the reverse of the keyword that started it. The `if` block ends with the `fi` keyword. The `case` block ends with the `esac` keyword.
 
-Next time we'll go over loops!
+# Resources <a id="resources"></a>
+
+  - [Shebang](http://www.gnu.org/software/bash/manual/bash.html#Shell-Scripts)
+  - [Common Commands](https://www.tjhsst.edu/~dhyatt/superap/unixcmd.html)
+  - [If](http://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs)
+  - [Case](http://www.gnu.org/software/bash/manual/bash.html#Conditional-Constructs)
