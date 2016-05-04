@@ -6,7 +6,7 @@ Author a script that takes in any number of arguments and print each of them out
 
 ###### Exercise 2 <a id="2"></a>
 
-Repeat Exercise 1 but have each argument print on the same line with separate statements.
+Repeat Exercise 1 but have each argument print on the same line with separate statements. An alias would be useful here.
 
 ###### Exercise 3 <a id="3"></a>
 
