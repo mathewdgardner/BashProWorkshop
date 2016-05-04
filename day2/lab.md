@@ -14,7 +14,7 @@ Author a script that defines a function that prints out the arguments it is give
 
 ###### Exercise 4 <a id="4"></a>
 
-Write an alias that combines `cd` and `ls` into one step.
+Write a function that combines `cd` and `ls` into one step.  Now you can cd into a folder and automatically list the contents in it.
 
 ###### BONUS <a id="bonus"></a>
 
