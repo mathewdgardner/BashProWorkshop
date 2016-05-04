@@ -1,6 +1,6 @@
 # Arguments <a id="arguments"></a>
 
-Sometimes it is useful for a script to do things conditionally depending on what inputs you give it. This can be achieved by passing arguments to in the command line. No doubt you have already been doing this!
+Sometimes it is useful for a script to do things conditionally depending on what inputs you give it. This can be achieved by passing arguments to it in the command line. No doubt you have already been doing this!
 
 ```sh
 $ bash my-script.sh one two three
@@ -12,7 +12,7 @@ In the above example, I passed three arguments to a script `my-script.sh`. Insid
 
 > Double note, the number of arguments you pass is practically unlimited for our purposes!
 
-There are many others, such as `$?`, `$@` and `$$` that you may be interested. Be sure to check out the [resources](#resources) section.
+There are many others, such as `$?`, `$@` and `$$` that you may be interested in. Be sure to check out the [resources](#resources) section.
 
 # Aliases <a id="aliases"></a>
 
